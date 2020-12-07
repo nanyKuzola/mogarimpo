@@ -1,0 +1,17 @@
+[08/Nov/2020:17:22:41] (I): WordPress Instance Info:
+[08/Nov/2020:17:22:41] (I): Home URL : http://localhost/garimpo
+[08/Nov/2020:17:22:41] (I): Site URL : http://localhost/garimpo
+[08/Nov/2020:17:22:41] (I): WordPress Version : 5.4.2
+[08/Nov/2020:17:22:41] (I): Onboarding Version : 1.0.9
+[08/Nov/2020:17:22:41] (I): Multisite : No
+[08/Nov/2020:17:22:41] (I): Server Info : Apache/2.4.29 (Ubuntu)
+[08/Nov/2020:17:22:41] (I): PHP Version : 7.2.24-0ubuntu0.18.04.7
+[08/Nov/2020:17:22:41] (I): HTTPS : No
+[08/Nov/2020:17:22:41] (I): PHP Max Execution Time : 30
+[08/Nov/2020:17:22:41] (I): PHP Max Input Vars : 1000
+[08/Nov/2020:17:22:41] (I): Max Upload Size : 8388608
+[08/Nov/2020:17:22:41] (I): Plugins:
+[08/Nov/2020:17:22:41] (I): [PLUGIN] Advanced WordPress Reset : v1.1.1 (Younes JFR.)
+[08/Nov/2020:17:22:41] (I): [PLUGIN] Neve Pro Addon : v1.2.9 (ThemeIsle)
+[08/Nov/2020:17:22:41] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.8 (ThemeIsle)
+[08/Nov/2020:17:22:41] (I): [PLUGIN] Templates Patterns Collection : v1.0.9 (ThemeIsle)

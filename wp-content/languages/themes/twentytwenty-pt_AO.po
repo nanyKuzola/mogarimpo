@@ -1,0 +1,164 @@
+# Translation of Themes - Twenty Twenty in Portuguese (Angola)
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-03 13:59:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_AO\n"
+"Project-Id-Version: Themes - Twenty Twenty\n"
+
+#: inc/starter-content.php:38
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "O novo UMoMA abre suas portas"
+
+#: classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr "Opacidade de sobreposição"
+
+#: inc/starter-content.php:150
+msgid "Join the Club"
+msgstr "Junta-te ao clube"
+
+#: inc/starter-content.php:147
+msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+msgstr "Os membros têm acesso a exposições e vendas exclusivas. Nossas filiações custam $99.99 e são cobrados anualmente."
+
+#: inc/starter-content.php:144
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Torne-se um Membro e obtém ofertas exclusivas!"
+
+#: inc/starter-content.php:113
+msgid "From Signac to Matisse"
+msgstr "De Signac para Matisse"
+
+#: inc/starter-content.php:98
+msgid "The Life I Deserve"
+msgstr "A vida que eu mereço"
+
+#: inc/starter-content.php:84 inc/starter-content.php:116
+msgid "October 1 -- December 1"
+msgstr "1º de outubro - 1º de dezembro"
+
+#: inc/starter-content.php:81
+msgid "Theatre of Operations"
+msgstr "Teatro de operações"
+
+#: inc/starter-content.php:72 inc/starter-content.php:87
+#: inc/starter-content.php:104 inc/starter-content.php:119
+msgid "Read More"
+msgstr "Ler mais"
+
+#: inc/starter-content.php:69 inc/starter-content.php:101
+msgid "August 1 -- December 1"
+msgstr "1º de agosto - 1º de dezembro"
+
+#: inc/starter-content.php:66
+msgid "Works and Days"
+msgstr "Trabalhos e dias"
+
+#: inc/template-tags.php:393
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "Em"
+
+#: inc/starter-content.php:55
+msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+msgstr "O principal destino da arte moderna no norte da Suécia. Funciona todos os dias, das 10:00 às 18:00, durante os meses de verão."
+
+#: inc/starter-content.php:47
+msgid "The New UMoMA Opens its Doors"
+msgstr "O novo UMoMA abre suas portas"
+
+#: inc/starter-content.php:136
+msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+msgstr "As exposições são produzidas pela UMoMA em colaboração com artistas e museus de todo o mundo e muitas vezes atraem a atenção internacional. UMoMA recebeu uma recomendação especial do Museu Europeu do ano, e foi um dos principais candidatos para o prêmio Museu sueco do ano, bem como para o Prêmio Museu do Conselho da Europa."
+
+#: inc/starter-content.php:133
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "Com sete andares de arquitetura impressionante, UMoMA mostra exposições de arte contemporânea internacional, Às vezes, juntamente com retrospectivas históricas de arte. As questões existenciais, políticas e filosóficas são intrínsecas ao nosso programa. Como visitante você é convidado para visitas guiadas palestras de artistas, palestras, exibições de filmes e outros eventos com entrada gratuita"
+
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "Rodapé"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Page"
+msgstr "Página"
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:206
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/starter-content.php:196
+msgid "Social Links Menu"
+msgstr "Menu de redes sociais"
+
+#: inc/starter-content.php:176 inc/starter-content.php:186 functions.php:492
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:497
+msgid "Secondary"
+msgstr "Secundária"
+
+#: functions.php:261
+msgid "Footer Menu"
+msgstr "Menu do rodapé"
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:88
+msgid "Comments"
+msgstr "Comentários"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Post title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Um comentário a &ldquo;%s&rdquo;"
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: classes/class-twentytwenty-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+#: classes/class-twentytwenty-walker-comment.php:77
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: 1: Comment date, 2: Comment time.
+#: classes/class-twentytwenty-walker-comment.php:69
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+#. Author URI of the theme
+#: footer.php:32
+msgid "https://wordpress.org/"
+msgstr "https://pt.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "a equipa do WordPress"
