@@ -60,4 +60,4 @@ get_header();
 		</div>
 	</div>
 <?php
-get_<sfooter();
+get_footer();

@@ -25,7 +25,7 @@ define( 'DB_NAME', 'garimpo' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
-
+heroku_2b59d1eaf6452f1
 /** MySQL database password */
 define( 'DB_PASSWORD', 'NKUZOLA18' );
 
